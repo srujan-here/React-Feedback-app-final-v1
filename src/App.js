@@ -9,7 +9,7 @@ import AboutIconlink from './components/AboutIconlink';
 import {FeedbackProvider} from './context/FeedbackContext'
 
 function App() {
-
+//main app
   return (
     <FeedbackProvider>
     <Router>
