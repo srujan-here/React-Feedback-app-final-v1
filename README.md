@@ -2,8 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Demo Link : https://cosmic-frangipane-c16418.netlify.app/.    [Demo doesn't includes json server backend]
-
 ## Available Scripts
 
 In the project directory, you can run:
